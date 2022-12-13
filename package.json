@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "console.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrenaPaiva/node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrenaPaiva/node/issues"
+  },
+  "homepage": "https://github.com/BrenaPaiva/node#readme",
+  "dependencies": {
+    "cfonts": "^3.1.1"
+  }
+}
